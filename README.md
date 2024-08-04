@@ -73,3 +73,9 @@ This project focuses on analyzing data sets related to countries and their growt
 
 ## Conclusion
 This project provides a structured approach to strategic investment analysis, leveraging data from multiple sources to make informed decisions. By combining data management, analysis, and visualization, it delivers actionable insights for optimizing investments in key sectors. The methodology ensures thorough risk assessment and prioritization, supporting effective decision-making.
+
+
+
+![Alteryx Project_page-0003](https://github.com/user-attachments/assets/ea9fbe0f-ca91-4fab-83d8-721aa3a3a565)
+![Alteryx Project_page-0002](https://github.com/user-attachments/assets/daf6d8a9-4d1c-42ea-9fb3-4f0d805147ca)
+![Alteryx Project_page-0001](https://github.com/user-attachments/assets/f0704c39-8fc7-4bb1-b6ec-9064ad9938ae)
