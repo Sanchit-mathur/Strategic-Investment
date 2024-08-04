@@ -1,7 +1,7 @@
 # Strategic Investment
 
 ## Introduction
-This project aims to analyze data sets about countries and their growth indicators to make strategic investment decisions in sectors such as power, energy, shipping, and more. The analysis will provide valuable insights for identifying the most suitable countries for investment.
+This project focuses on analyzing data sets related to countries and their growth indicators to guide strategic investment decisions. The analysis targets sectors such as power, energy, and shipping. By evaluating indicators like population, rural population, electricity access, and GDP, this project aims to provide actionable insights for identifying the most promising countries for investment opportunities.
 
 ## Product Backlog
 | #  | Epic        | Module              | Feature                           |
@@ -41,11 +41,6 @@ This project aims to analyze data sets about countries and their growth indicato
     - Prioritize countries based on growth potential and risk assessment.
     - Consider investment goals, budget, and strategies.
     - Create a comprehensive report summarizing the analysis and recommendations.
-
-6. **Data Migration**:
-    - Map data sets for each customer and define workflows.
-    - Schedule data pull at 2 AM every night.
-    - Store migration details in the database.
 
 ## Data Sets
 - Population
