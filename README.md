@@ -71,9 +71,8 @@ This project focuses on analyzing data sets related to countries and their growt
 2. Open the data files in the respective tools (Excel, Power BI, Alteryx).
 3. Follow the documenttion in README.md for analysis and visualization.
 
-### Power BI Dashboard
-Below is a screenshot of the Power BI dashboard:
-
+## Power BI Dashboard
+Below is the screenshot of the Power BI dashboard:
 
 ![Alteryx Project_page-0003](https://github.com/user-attachments/assets/ea9fbe0f-ca91-4fab-83d8-721aa3a3a565)
 ![Alteryx Project_page-0002](https://github.com/user-attachments/assets/daf6d8a9-4d1c-42ea-9fb3-4f0d805147ca)
